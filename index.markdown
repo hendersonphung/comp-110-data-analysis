@@ -295,7 +295,7 @@ This was done to view experience levels in the class between these two populatio
 
 We will compare the level of experiences between computer science degrees to non-computer science degrees.
 
-![Computer science degrees bar graph](/static/images/unc_status_graph.png)
+![Degree and Experiences bar graph](/static/images/comp_major_to_prior_exp.png)
 
 Here, we see that the majority of students in the class, amongst both populations of computer science degrees have little to no experience in coding.  This is important later to understand the attitudes of pre-lecture videos and adding livestreams.
 
