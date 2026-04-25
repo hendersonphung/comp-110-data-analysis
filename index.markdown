@@ -26,6 +26,7 @@ To start, we will pull the data from the two .CSV files provided, select the fir
 
 Then, we will select the relevant columns necessary for our analysis.  This includes columns
 * "unc_status"
+* "comp_major"
 * "prior_exp"
 * "pre_lecture_videos"
 * "add_livestream"
@@ -325,6 +326,8 @@ Within the population, we saw that there is support for adding both pre-lecture 
 |--------------------|------------------|
 | pre_lecture_videos | 5.145 out of 7   |
 | add_livestream     | 5.345 out of 7   |
+
+These averages of implementing pre-lecture videos and livestreams are strongly supported by the population of students in the survey, primarily those that have no experience in coding.  It is also among both computer science degree students to support implementing both pre-lecture videos and livestreams.
 
 The effect of pre-lecture videos will allow these students to get a better understand of what to expect in upcoming lectures and to have the ability to review introductory concepts of new topics.  This is especially crucial for the large amount of no-experience coders in the course.
 
